@@ -1,0 +1,32 @@
+Adventure Game Guide
+Welcome to a world full of challenges and adventures! In this game, you will play as a warrior, traversing different rooms, battling monsters, collecting items, and solving puzzles. Here are some basic guidelines to get you started on this adventurous journey.
+
+Game Objective
+Your goal is to explore different rooms, defeat various monsters, and ultimately complete the challenge in the “Trophy Room”. Along the way, you need to collect useful items, enhance your abilities, and wisely use your resources.
+
+Basic Controls
+Movement: Use 'W', 'A', 'S', 'D' keys to move North, East, South, and West, respectively.
+Look Around: Enter LOOK or L to view the description and available items in the current room.
+Pick Up Items: Enter TAKE [item name] to pick up items in the room.
+Use Items: Enter USE [item name] to use your items.
+View Inventory: Enter INVENTORY or I to see the items you are currently carrying.
+Combat
+When you enter a room with a monster, the battle will start automatically. In combat, you can choose the following actions:
+
+Attack: Attack the monster.
+Defend: Increase your defense to reduce damage taken.
+Escape: Attempt to flee from the battle.
+Use Special Abilities: Such as “Heal” (to recover health) or “Rapid Attack” (to increase attack power).
+Special Items
+In the game, you will find special items like the “Sword,” which can permanently increase your attack power. Using these items correctly is crucial for defeating stronger enemies.
+
+Monsters
+Knight: Has high defense and will increase defense when health is below 50%.
+Mage: High attack power, increases attack at the start of the battle.
+Boss: Very powerful, doubles attack power when health is below 30%.
+Game Strategy
+In the battle against the Knight, you may need multiple attacks to defeat it.
+After obtaining the sword in the “Sword Room,” your attack power will be permanently increased, which is vital for subsequent battles.
+Against the Mage, use special abilities and increased attack power to overcome the Mage’s high attack.
+In the Boss battle, use mana wisely for healing or increasing attack power, while being aware of the timing of the Boss's special ability.
+Enjoy your time in this adventure game and bravely face each challenge!

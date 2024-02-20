@@ -1,0 +1,59 @@
+1
+Spawn Room
+You are an Angle from Heaven, and there is a dragon who is killing thousands of people and God sent you to Earth to save humans.
+NONE
+-----
+NORTH      2
+
+2
+Connecting Room
+You have many options to choose and where to go to find the dragon. Chose wisely and defeat the dragon to save human civilization. There is a knight in this room.
+KNIGHT
+-----
+SOUTH      1
+EAST       3
+WEST       4
+
+3
+Sword Room
+A room with a sword which can help you to get stronger and defeat the dragon
+NONE
+-----
+WEST       2
+
+4
+Big Room
+A room that seems very big full of magical and there is a mage here.
+MAGE
+-----
+EAST       2
+NORTH      5
+
+5
+Hallway
+A long room that looks like a hallway. You are very close to the dragon. Keep going
+NONE
+-----
+SOUTH      4
+EAST       6
+
+6
+Boss Room
+A room with an ominous presence. This is where the dragon lives. You must defeat it.
+BOSS
+-----
+WEST       5
+
+7
+Trophy Room
+A room that symbolizes you finished
+NONE
+-----
+SOUTH      6
+
+8
+Losing Room
+Unfortunately you lose the game!
+NONE
+----
+NONE       8

@@ -1,0 +1,71 @@
+MAP
+A map of the dungeon
+2
+380
+320
+png
+60
+60
+
+SWORD
+A sword to help you in the dungeon
+3
+500
+500
+png
+150
+75
+
+KEY
+A key that seems to unlock a door
+4
+200
+550
+png
+40
+40
+
+HEALTH
+A potion to increase your health
+5
+345
+500
+png
+40
+40
+
+MANA
+A potion to increase your mana
+5
+850
+500
+png
+40
+40
+
+BIRD
+A bird that is very smart
+4
+400
+300
+gif
+80
+80
+
+PENCIL
+A pencil that is able to edit signs...
+2
+500
+560
+png
+30
+30
+
+SANDWICH
+Very Delicious sandwich might or might not be expired...
+4
+134
+550
+png
+50
+50
