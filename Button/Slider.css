@@ -1,0 +1,26 @@
+.slider .track {
+    -fx-background-color: '#eb934c';
+    -fx-padding: 6;
+}
+.slider .thumb{
+    -fx-background-color: '#59173d';
+    -fx-padding: 10;
+}
+.label {
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #ffbe25;
+    -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}
+
+.toggle-button {
+    -fx-background-color: #eb924e;
+    -fx-padding: 10px 20px;
+    -fx-border-color: #6b3e21;
+    -fx-border-width: 6;
+
+}
+.toggle-button:selected {
+    -fx-background-color: #59173e;
+
+}
